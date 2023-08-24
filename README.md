@@ -8,6 +8,7 @@ This is a simple mod, however, it will continue to be updated and supported for 
 
 ## Use and Installation
 * This mod will be uploaded to Modrinth in the future and that is where you can install the .jar files.
+the .jar can be installed from this Modrinth link: https://modrinth.com/mod/rmlogs
 
 * After these .jar files are installed you should copy or move them over into your "mods" folder and make sure that the fabric 
 api is also present in the "mods" folder.
